@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGGEBpPBU9TfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732565071429?e=1746057600&v=beta&t=3sG5k8njgXCtKFKYKKwwIWHiU3xzPz-HH97vNuDlGdQ">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHCPRkkDpru0w/profile-displaybackgroundimage-shrink_350_1400/B4EZVGgW.pG0Ac-/0/1740644648347?e=1746057600&v=beta&t=n_KsDbAl1insS8pJiwFrdsM_pgnAVgQiVkOI3lFIero">
 <h1 align="center">Hi 👋,This is ZANNATUL FERDOUSI.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
