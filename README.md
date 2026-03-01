@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHCPRkkDpru0w/profile-displaybackgroundimage-shrink_350_1400/B4EZVGgW.pG0Ac-/0/1740644648347?e=1773878400&v=beta&t=UJEDaSQiHAchagDaxGxGMUkGJCH-mtI6UlpHf9o-Zmk?e=1773878400&v=beta&t=UJEDaSQiHAchagDaxGxGMUkGJCH-mtI6UlpHf9o-Zmk?e=1769644800&v=beta&t=FE2pzeo9QIY0PSpWiI2oHlr4kbchJFtk_gzCtCHvHlA">
 <h1 align="center">Hi 👋,This is ZANNATUL FERDOUSI.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate frontend,Backend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperzannatul&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperzannatul" /> </p>
 
